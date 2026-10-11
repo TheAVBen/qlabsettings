@@ -34,6 +34,7 @@ Run the app, pick **Show Mode** or **Restore**, and choose whether to change Spa
 
 ## Customising
 
-Restore values are properties at the top of the script.
+NEW!!! Values are captured when entering show mode and restored later. The custom values are only used as a fallback.
+
 
 This project is not affiliated with Figure 53.
